@@ -1,0 +1,28 @@
+# What even *is* an experiment?
+
+The following questions can be a little bit challenging. This is because the argument that you are being asked to make is based on the rote application of a definition. To begin with, it is useful for you to define what you mean when you write about either *an experiment* or *an observational study*. Then, with these definitions on hand, use the definitions to answer the following questions.
+
+## Define your terms
+
+-   **An experiment is:**
+-   **An experiment provides the following statistical guarantees:**
+-   **An observational study is:**
+-   **An observational study provides the following statistical guarantees:**
+
+## Does a random, iid sample produce an unbiased treatment effect estimate?
+
+Assume that a researcher takes a random sample of elementary school children and compares the grades of those who were previously enrolled in an early childhood education program with the grades of those who were not enrolled in such a program. Is this an experiment, an observational study, or something in between?
+
+**Answer:** ...
+
+## What if an official agency produces the idd sample?
+
+Assume that the researcher works together with an organization that provides early childhood education and offer free programs to certain children. However, which children that received this offer was not randomly selected by the researcher but rather chosen by the local government. (Assume that the government did not use random assignment but instead gives the offer to students who are deemed to need it the most) The research follows up a couple of years later by comparing the elementary school grades of students offered free early childhood education to those who were not. Is this an experiment, an observational study, or something in between? Explain!
+
+**Answer:** ...
+
+## What if someone else randomly assigns
+
+If the government assigned students to treatment and control by "coin toss", rather than simply sampling the population, would you say that the study is experimental or observational? Why? What, if any guarantees does this process provide?
+
+**Answer:** ...

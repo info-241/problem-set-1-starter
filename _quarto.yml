@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Problem set 1"
+  author: "Norah Jones"
+  date: "1/10/2024"
+  chapters:
+    - index.qmd
+    - question_1.qmd
+    - question_2.qmd
+    - question_3.qmd
+    - question_4.qmd
+    - question_5.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

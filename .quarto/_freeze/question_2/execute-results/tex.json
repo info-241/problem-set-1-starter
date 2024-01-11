@@ -1,0 +1,20 @@
+{
+  "hash": "c64cd48bc350574b975e3604c972ba8b",
+  "result": {
+    "markdown": "# Visual Acuity with Simple Data\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(data.table)\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\ntable <- data.table(\n  subject = 1:7, \n  y_0 = c(10, 12, 15, 11, 10, 17, 16), \n  y_1 = c(12, 12, 18, 14, 15, 18, 16),\n  tau = c(2, 0, 3, 3, 5, 1, 0)\n)\n```\n:::\n\n\n\n## Illustration\n\nUse the values in the table below to illustrate that $E[Y_i(1)]-E[Y_i(0)] = E[Y_i(1) - Y_i(0)]$.\n\nTo do so, please write code that will index to the correct values in the table and calculate the difference between $E[Y_i(1)]$ and $E[Y_i(0)]$ for each subject. Then, calculate the average of these differences.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Use this code chunk to show your code work\n```\n:::\n\n\n\n## Data Possibilities\n\nIs it possible to collect all necessary values and construct a table like the one provided in real life? Explain why or why not?\n",
+    "supporting": [
+      "question_2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
