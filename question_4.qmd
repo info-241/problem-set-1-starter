@@ -9,7 +9,7 @@ The following questions can be a little bit challenging. This is because the arg
 -   **An observational study is:**
 -   **An observational study provides the following statistical guarantees:**
 
-## Does a random, iid sample produce an unbiased treatment effect estimate?
+## Does a random (iid sample) produce an unbiased treatment effect estimate?
 
 Assume that a researcher takes a random sample of elementary school children and compares the grades of those who were previously enrolled in an early childhood education program with the grades of those who were not enrolled in such a program. Is this an experiment, an observational study, or something in between?
 
