@@ -1,9 +1,0 @@
-# Problem Set 1 {.unnumbered}
-
-This is the first problem set. To complete this problem set, please answer questions 1 - 5, which are each located in their own file. For this homework, please try to limit yourselves to using these libraries to conduct the work:
-
-```{r load packages, message=FALSE}
-library(data.table) # pick either data.table 
-library(dplyr)      # or dplyr; not both. 
-library(ggplot2) 
-```
