@@ -21,7 +21,7 @@ Please complete the following questions that ask you to define terminology.
 In two sentences, explain the notation $Y^{obs}_{i}(1)$.
 
 ::: {.answer}
-'Fill this in'
+Fill this in.
 :::
 
 ## Part (b)
@@ -29,7 +29,7 @@ In two sentences, explain the notation $Y^{obs}_{i}(1)$.
 In two sentences, explain the notation $Y^{mis}_{i}(0)$.
 
 ::: {.answer} 
-'Fill this in.'
+Fill this in.
 ::: 
 
 
@@ -81,7 +81,7 @@ Suppose we are interested in the hypothesis that children playing outside leads 
 Consider the following population of ten children whose visual acuity we can measure.
 
 -  Visual acuity is the decimal version of the fraction given as output in standard eye exams.
--   Someone with 20/20 vision has acuity 1.0, while someone with 20/40 vision has acuity 0.5.
+-  Someone with 20/20 vision has acuity 1.0, while someone with 20/40 vision has acuity 0.5.
 -  Numbers greater than 1.0 are possible for people with better than “normal” visual acuity.
 
 ```{python}
@@ -141,6 +141,10 @@ Fill this in.
 ## Average of Estimated Treatment Effects 
 
 For each of the randomizations that you proposed, compute the estimated average treatment effect of the randomization. 
+
+```{python}
+# Use this code chunk to show your code/work
+```
 
 ## Even-Odd split
 
